@@ -1,5 +1,7 @@
 # umi-token-transfer-app
 
+** i use bun but you are free to use npm also**
+
 To install dependencies:
 
 ```bash
